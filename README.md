@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bloggy](https://github.com/TaylorMerwin/bloggy)
 
-- 🌱 I’m currently learning **Google Cloud Services**
+- 🌱 I’m currently learning **Google Cloud Services** and **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
