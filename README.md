@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
-<h3 align="center">A Computer Science Student and Developer</h3>
+<h2>A Computer Science Student and Developer</h2>
 
-- 🧑‍💻 I’m currently working on [bloggy](https://github.com/TaylorMerwin/bloggy)
+<h3> 🧑‍💻 I’m currently working on <a href="https://github.com/TaylorMerwin/bloggy" target="_blank" rel="noreferrer">Bloggy</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
