@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
 <h3 align="center">A Computer Science Student and Developer</h3>
 
-- 🔭 I’m currently working on [bloggy](https://github.com/TaylorMerwin/bloggy)
-
-- 🌱 I’m currently learning **Google Cloud Services** and **Docker**
+- 🧑‍💻 I’m currently working on [bloggy](https://github.com/TaylorMerwin/bloggy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
