@@ -3,7 +3,7 @@
 
 <h3> 🧑‍💻 I’m currently working on <a href="https://github.com/TaylorMerwin/bloggy" target="_blank" rel="noreferrer">Bloggy</a></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taylorrmerwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taylorrmerwin" height="30" width="40" /></a>
 </p>
