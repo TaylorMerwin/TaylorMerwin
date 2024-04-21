@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taylor</h1>
-<h2>A Computer Science Student and Developer</h2>
+<h3>A Computer Science Student and Developer</h3>
 
 <h3> 🧑‍💻 I’m currently working on <a href="https://github.com/TaylorMerwin/bloggy" target="_blank" rel="noreferrer">Bloggy</a></h3>
 
