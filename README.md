@@ -1,7 +1,7 @@
 ## Hello, I'm Taylor
 
 
-🚀 I'm a Recent Computer Science and Systems graduate with a passion for building user-centered experiences for the web and mobile. 
+🚀 I'm a Recent Computer Science and Systems graduate from the University of Washington Tacoma with a passion for building user-centered experiences for the web and mobile. 
 
 🎯 Seeking opportunities to leverage my expertise to create modern and scalable applications. 
 
@@ -10,10 +10,10 @@
 ---  
 ## 🔧 Skills & Technologies
 
-*   **Languages:** Java, Kotlin, TypeScript, SQL
+*   **Languages:** Java, Kotlin, TypeScript, Python
 *   **Frameworks:** Node.js, Express.js, React, Tailwind CSS
-*   **Databases:** PostgreSQL, Firebase
+*   **Databases:** PostgreSQL, mySQL
 *   **Tools:** Git, Docker, Postman
-*   **Cloud:** Google Cloud Platform (GCP)
+*   **Cloud:** Google Cloud Platform (GCP), Firebase
 
 
