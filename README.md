@@ -15,5 +15,3 @@
 *   **Databases:** PostgreSQL, mySQL
 *   **Tools:** Git, Docker, Postman
 *   **Cloud:** Google Cloud Platform (GCP), Firebase
-
-
