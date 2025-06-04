@@ -1,23 +1,20 @@
 # Hello, I'm Taylor
 
-## Aspiring Data Engineer with a software development background
+## Analyst / Programmer @ Mayo Clinic | Cloud Data Engineer
 
 
-🚀 I'm a recent Computer Science and Systems graduate from the University of Washington Tacoma, currently learning and exploring data engineering.
+🚀 I’m currently working as an IT Analyst / Programmer at Mayo Clinic, building scalable data solutions and pipelines on Google Cloud Platform (GCP) as part of the Advanced Data Lake team.
 
-🎯 Seeking opportunities to build scalable and efficient data pipelines, optimize databases, and with with big data technologies.
+🎯 My professional focus includes migrating source systems to GCP using tools like Datastream, Dataflow, and BigQuery. I'm actively involved in proof-of-concept projects exploring modern data storage solutions such as Apache Iceberg, BigQuery Omni, and Azure integrations.
 
-💾 Passionate about SQL, data modeling, and ETL processes, with experience developing full stack applications that integrate structured data storage and retrieval.
+💾 Passionate about data engineering, I specialize in developing and maintaining efficient ETL pipelines, data modeling, and leveraging cloud technologies to solve challenging data problems.
 
-🐍 Currently learning Data Engineering concepts and expanding my knowledge of cloud-based data solutions.
+🔧 Skills & Technologies
 
----  
-## 🔧 Skills & Technologies
-
-*   **Languages:** Python, SQL, Java, Kotlin, Typescript
-*   **Databases:** PostgreSQL, mySQL, SQLite
-*   **Tools:** Git, Docker, Postman
-*   **Cloud:** Google Cloud Platform (GCP), Firebase
+- Languages: Python, SQL, Java, Kotlin, TypeScript
+- Databases: PostgreSQL, MySQL, BigQuery, SQLite
+- Cloud & Data Tools: Google Cloud Platform (GCP), Datastream, Dataflow, Dataplex
+- DevOps & Tools: Git, Docker, Postman, Azure DevOps
 
 ## 📌 Featured Projects
 
