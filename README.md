@@ -18,6 +18,10 @@
 
 ## 📌 Featured Projects
 
+📈 **[Bluetrends](https://github.com/TaylorMerwin/Bluetrends)
+
+A real-time data engineering pipeline for analyzing sentiment and keyword trends from Bluesky posts, featuring Kafka, PySpark, Airflow, and Dash.
+
 📝 **[Bloggy](https://github.com/TaylorMerwin/bloggy)**
 
 A full-stack blogging platform built with TypeScript and Node.js, allowing users to create and share technical blog posts written in Markdown. Blogs are stored in SQL databases and images/files are hosted on Google Cloud Storage.
