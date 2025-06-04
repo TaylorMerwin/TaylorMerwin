@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-📈 **[Bluetrends](https://github.com/TaylorMerwin/Bluetrends)
+📈 **[Bluetrends](https://github.com/TaylorMerwin/Bluetrends)**
 
 A real-time data engineering pipeline for analyzing sentiment and keyword trends from Bluesky posts, featuring Kafka, PySpark, Airflow, and Dash.
 
